@@ -3,11 +3,9 @@ import {
   BarChart2,
   Package,
   Percent,
-  Boxes,
   ShoppingCart,
   DollarSign,
   Users,
-  Mail,
   Settings,
 } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
@@ -18,9 +16,7 @@ const menuItems = [
   { label: "Analytics", icon: BarChart2, path: "/analytics" },
   { label: "Products", icon: Package, path: "/product" },
   { label: "Orders", icon: ShoppingCart, path: "/orders" },
-  { label: "Customer", icon: Users, path: "/customers" },
-  { label: "Category", icon: Boxes, path: "/categories" },
-  { label: "Inventory", icon: Mail, path: "/inventorys" },
+  { label: "Users", icon: Users, path: "/users" },
   { label: "Sales", icon: DollarSign, path: "/sales" },
   { label: "Discounts ", icon: Percent, path: "/discounts" },
   { label: "Settings", icon: Settings, path: "/settings" },
