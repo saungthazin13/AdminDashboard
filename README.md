@@ -22,5 +22,5 @@ A modern and responsive Admin Dashboard UI built with **React**, **TypeScript**,
    
 
 
-## Live for vercel demo
-   
+## Live for vercel demo=>
+   https://admin-dashboard-89ei.vercel.app/
