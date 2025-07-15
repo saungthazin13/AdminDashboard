@@ -15,11 +15,12 @@ A modern and responsive Admin Dashboard UI built with **React**, **TypeScript**,
 
 ## Getting Started
 
-1. Clone the repository
-   git clone https://github.com/saungthazin13/AdminDashboard
-   cd AdminDashboard
-   npm install
-   npm run dev
+1. Clone the repository =>git clone https://github.com/saungthazin13/AdminDashboard
+2. cd AdminDashboard
+3. npm install
+4. npm run dev
+   
+
 
 ## Live for vercel demo
    
