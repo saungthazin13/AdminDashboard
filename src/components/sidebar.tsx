@@ -6,7 +6,6 @@ import {
   ShoppingCart,
   DollarSign,
   Users,
-  Settings,
 } from "lucide-react";
 import { Link, useLocation } from "react-router-dom";
 import { cn } from "@/lib/utils";
@@ -19,7 +18,6 @@ const menuItems = [
   { label: "Users", icon: Users, path: "/users" },
   { label: "Sales", icon: DollarSign, path: "/sales" },
   { label: "Discounts ", icon: Percent, path: "/discounts" },
-  { label: "Settings", icon: Settings, path: "/settings" },
 ];
 
 export function Sidebar() {
